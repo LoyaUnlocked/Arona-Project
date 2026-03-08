@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+
+# AI & Memory
+memory.json
+persona.txt
+
+# Models (The Heavy Stuff)
+models/
+*.onnx
+*.onnx.json
+*.bin
+
+# Temporary Audio
+*.wav
+*.mp3
+/tmp/arona_*
